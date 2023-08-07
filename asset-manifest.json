@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/test-amida/static/css/main.b7ebc7f8.css",
-    "main.js": "/test-amida/static/js/main.8ff58f79.js",
+    "main.js": "/test-amida/static/js/main.00654faa.js",
     "static/css/472.b09205c6.chunk.css": "/test-amida/static/css/472.b09205c6.chunk.css",
     "static/js/472.564f3f91.chunk.js": "/test-amida/static/js/472.564f3f91.chunk.js",
     "static/css/304.cc89839e.chunk.css": "/test-amida/static/css/304.cc89839e.chunk.css",
     "static/js/304.272dc40b.chunk.js": "/test-amida/static/js/304.272dc40b.chunk.js",
-    "static/css/228.78fe34e9.chunk.css": "/test-amida/static/css/228.78fe34e9.chunk.css",
-    "static/js/228.8f5ce0b5.chunk.js": "/test-amida/static/js/228.8f5ce0b5.chunk.js",
+    "static/css/228.52967fff.chunk.css": "/test-amida/static/css/228.52967fff.chunk.css",
+    "static/js/228.9c1edac4.chunk.js": "/test-amida/static/js/228.9c1edac4.chunk.js",
     "static/media/svg-1.svg": "/test-amida/static/media/svg-1.7ac456d66ae61d14bf6f.svg",
     "index.html": "/test-amida/index.html",
     "main.b7ebc7f8.css.map": "/test-amida/static/css/main.b7ebc7f8.css.map",
-    "main.8ff58f79.js.map": "/test-amida/static/js/main.8ff58f79.js.map",
+    "main.00654faa.js.map": "/test-amida/static/js/main.00654faa.js.map",
     "472.b09205c6.chunk.css.map": "/test-amida/static/css/472.b09205c6.chunk.css.map",
     "472.564f3f91.chunk.js.map": "/test-amida/static/js/472.564f3f91.chunk.js.map",
     "304.cc89839e.chunk.css.map": "/test-amida/static/css/304.cc89839e.chunk.css.map",
     "304.272dc40b.chunk.js.map": "/test-amida/static/js/304.272dc40b.chunk.js.map",
-    "228.78fe34e9.chunk.css.map": "/test-amida/static/css/228.78fe34e9.chunk.css.map",
-    "228.8f5ce0b5.chunk.js.map": "/test-amida/static/js/228.8f5ce0b5.chunk.js.map"
+    "228.52967fff.chunk.css.map": "/test-amida/static/css/228.52967fff.chunk.css.map",
+    "228.9c1edac4.chunk.js.map": "/test-amida/static/js/228.9c1edac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7ebc7f8.css",
-    "static/js/main.8ff58f79.js"
+    "static/js/main.00654faa.js"
   ]
 }
