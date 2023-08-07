@@ -16,7 +16,7 @@ function App() {
   const [total, setTotal] = useState(0);
   useEffect(() => {
     async function fetchData() {
-      if (aaaa.length === 0 && localStorage.getItem('my_shoes')) {
+      if (localStorage.getItem('my_shoes')) {
         setAaaa(JSON.parse(localStorage.getItem('my_shoes')));
       }
       try {
